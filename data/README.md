@@ -9,7 +9,7 @@ Your mission: Tempe Streetcar carries roughly 790,000 riders a year
 | tempe_links.geojson | Tempe street network with lanes/speed/capacity | 1, 4 - auto background |
 | tempe_zones.geojson | Tempe analysis zones | 2 - P/A table |
 | tempe_superzones.geojson | The superzone roll-up used in class | aggregation checks |
-| tempe_transit_stops.geojson | Transit stops incl. the 14 streetcar stops | 3 - mode availability |
+| tempe_transit_stops.geojson | The course's SYNTHESIZED transit network: 20 bus + rail stops with headways. The streetcar is NOT in it - its real stops and schedule are in research_data/streetcar_gtfs/ (Canvas zip) | 3 - mode availability |
 | tempe_transit_shapes_synthesized.geojson | Transit route shapes (synthesized from stops - label them as such) | maps |
 | tempe_zones_map.png | Ready-made zone map | model card figure |
 

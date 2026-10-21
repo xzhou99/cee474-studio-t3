@@ -16,6 +16,6 @@ No aggregate claims - this table IS the state of the project.
 | Handoff table (step 6) | not started |  |  |
 | M1 model card | not started |  |  |
 | Contribution log, M1 sheet | not started |  |  |
-| Known-good check: 14 streetcar stops + zone count | ready to run |  |  |
+| Known-good check: 59 zones + 20 synthesized stops; streetcar gap noted | ready to run |  |  |
 | 4-mode logit (step 3b, before route) | not started |  |  |
 | Ridership reality check vs ~790,000/yr | not started |  |  |

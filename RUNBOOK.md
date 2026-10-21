@@ -1,7 +1,7 @@
 # RUNBOOK - Team 3 - Tempe
 
 ## Step 0 - the known-good check (run this FIRST, before any modelling)
-Count the streetcar stops in data/tempe_transit_stops.geojson (the streetcar's 14 should be present) and the zones in data/tempe_zones.geojson. Those two counts open your Master Inventory.
+Count the zones in data/tempe_zones.geojson (59) and the stops in data/tempe_transit_stops.geojson (20 - the course's synthesized bus/rail network). Note what is MISSING: the streetcar is not in the synthesized network. Your mode-choice model adds it from the real GTFS in your Canvas zip (research_data/streetcar_gtfs/). Those counts, and that gap, open your Master Inventory.
 
 When it passes, flip its STATUS.md row to `verified` with your name and
 the commit. This is the repo's proof that the data arrived intact and
